@@ -22,6 +22,7 @@ public class Ejercicio3 {
 		
 		
 		System.out.println("Introduce un número entero");
+		System.out.println("Introduce un número");
 		cant=teclado.nextInt();
 		
 		//bucle para que el usuario introduzca siempre un valor entero positivo
